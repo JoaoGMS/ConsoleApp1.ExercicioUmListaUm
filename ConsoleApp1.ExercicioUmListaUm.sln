@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.ExercicioUmListaUm", "ConsoleApp1.ExercicioUmListaUm\ConsoleApp1.ExercicioUmListaUm.csproj", "{5D7721D8-C5CF-457B-B61B-8B14E26F3FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7721D8-C5CF-457B-B61B-8B14E26F3FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7721D8-C5CF-457B-B61B-8B14E26F3FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7721D8-C5CF-457B-B61B-8B14E26F3FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7721D8-C5CF-457B-B61B-8B14E26F3FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D369BE-3368-4A55-B0D6-D2F5030F0C0E}
+	EndGlobalSection
+EndGlobal
